@@ -1,0 +1,40 @@
+Summary
+  Generated on: 11/9/2026 - 10:02:10 AM
+  Coverage date: 11/9/2026 - 10:02:10 AM
+  Parser: Cobertura
+  Assemblies: 1
+  Classes: 18
+  Files: 11
+  Line coverage: 94.4%
+  Covered lines: 135
+  Uncovered lines: 8
+  Coverable lines: 143
+  Total lines: 302
+  Branch coverage: 62.5% (5 of 8)
+  Covered branches: 5
+  Total branches: 8
+  Method coverage: 95.1% (39 of 41)
+  Full method coverage: 90.2% (37 of 41)
+  Covered methods: 39
+  Fully covered methods: 37
+  Total methods: 41
+
+Payroll.Api                                           94.4%
+  Payroll.Api.Controllers.EmployeesController         82.3%
+  Payroll.Api.Controllers.PayRunsController            100%
+  Payroll.Api.Data.PayrollDbContext                    100%
+  Payroll.Api.Dtos.AddTimeSheetRequest                 100%
+  Payroll.Api.Dtos.CreateEmployeeRequest               100%
+  Payroll.Api.Dtos.EmployeeDto                         100%
+  Payroll.Api.Dtos.PayRunResult                        100%
+  Payroll.Api.Dtos.PaystubDto                          100%
+  Payroll.Api.Dtos.RunPayrollRequest                   100%
+  Payroll.Api.Dtos.TimesheetDto                        100%
+  Payroll.Api.Models.Employee                          100%
+  Payroll.Api.Models.Paystub                            75%
+  Payroll.Api.Models.Timesheet                         100%
+  Payroll.Api.Services.DuplicateTimeSheetException       0%
+  Payroll.Api.Services.PayrollCalculator               100%
+  Payroll.Api.Services.PayrollService                 93.7%
+  Payroll.Api.Services.PayRunAlreadyExistsException    100%
+  Program                                              100%
